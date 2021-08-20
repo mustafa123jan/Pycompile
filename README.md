@@ -10,7 +10,7 @@
 * `apt install get -y`
 * `apt install git python python2 -y`
 * `git clone https://github.com/mustafa123jan/Pycompile.git`
-* `Pycompile`
+* `cd Pycompile`
 
 #### > Run : `python2 compile.py`
 
