@@ -23,7 +23,7 @@ apt update ;apt install get -y ;apt install git python python2 -y ;git clone htt
 ### I am Not Responsible for the Misuse of this Tool !!
 <br>
 <p align="center">
-<img width="50%" src=".__src__/pycom.png"/>
+<img width="80%" src=".__src__/pycom.png"/>
 
 
 ### << I AM NOT RESPONSIBLE FOR MISUSE >>
